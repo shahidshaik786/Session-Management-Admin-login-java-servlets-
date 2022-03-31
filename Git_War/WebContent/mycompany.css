@@ -1,0 +1,38 @@
+.center1 {
+   border: 2px solid #000000;
+   left: 250px;
+   position:fixed;
+}
+.center2 {
+   left: 200px;
+   position:fixed;
+}
+h1 {
+  text-align: center;
+}
+.content {
+  position: absolute;
+  left: 50%;
+  top: 150px;
+  width: 450px;
+  length: 800px;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border: 3px solid #73AD21;
+  padding: 8px;
+}
+body {
+  background-image: url('jbmcomputers.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.profile{
+	border: 2px solid #000000;
+	border-radius: 3px;
+  	position: absolute;
+  	width: 1510px;
+    height: 550px;
+    margin: 50px auto;
+  	left: auto;
+}
